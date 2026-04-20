@@ -59,8 +59,3 @@ The main goal of this project was to **learn the end-to-end ML pipeline** – fr
 - Try feature engineering (combine or extract new features)  
 - Use Hyperparameter tuning (GridSearchCV / RandomizedSearchCV)  
 - Experiment with Ensemble techniques  
-
----
-
-## 📂 Notebook  
-You can check out the full implementation in my Jupyter Notebook in this repo.  
