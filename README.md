@@ -1,6 +1,6 @@
 # 🛳️ Titanic Survival Prediction 
 
-This is a **learning-focused project** where I explored the classic Titanic dataset, performed a mini EDA, preprocessed the data, and trained multiple ML models to predict passenger survival.  
+ A **learning-focused project** where I explored the classic Titanic dataset, performed a mini EDA, preprocessed the data, and trained multiple ML models to predict passenger survival.  
 
 ---
 
@@ -32,12 +32,12 @@ The main goal of this project was to **learn the end-to-end ML pipeline** – fr
 
 ---
 
-## 📊 Results  
+##  Results  
 | Model              | Performance (Accuracy) |
 |-------------------|----------------------|
 | Logistic Regression | 🔸 Decent |
 | Decision Tree       | 🔸 Okay |
-| Random Forest ✅    | ⭐ Best |
+| Random Forest ✅   | ⭐ Best |
 | KNN                | 🔸 Good |
 | SVM                | 🔸 Good |
 | Naive Bayes        | 🔸 Decent |
@@ -55,13 +55,7 @@ The main goal of this project was to **learn the end-to-end ML pipeline** – fr
 
 ---
 
-## 🛠️ Tech Stack  
-- **Language:** Python 🐍  
-- **Libraries:** Pandas, NumPy, Matplotlib/Seaborn, Scikit-Learn  
-
----
-
-## 🚀 Future Improvements  
+##  Future Improvements  
 - Try feature engineering (combine or extract new features)  
 - Use Hyperparameter tuning (GridSearchCV / RandomizedSearchCV)  
 - Experiment with Ensemble techniques  
